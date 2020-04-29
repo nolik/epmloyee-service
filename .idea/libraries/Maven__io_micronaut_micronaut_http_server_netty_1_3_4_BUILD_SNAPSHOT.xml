@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.micronaut:micronaut-http-server-netty:1.3.4.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/micronaut/micronaut-http-server-netty/1.3.4.BUILD-SNAPSHOT/micronaut-http-server-netty-1.3.4.BUILD-20200403.130805-48.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/micronaut/micronaut-http-server-netty/1.3.4.BUILD-SNAPSHOT/micronaut-http-server-netty-1.3.4.BUILD-20200403.130805-48-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/micronaut/micronaut-http-server-netty/1.3.4.BUILD-SNAPSHOT/micronaut-http-server-netty-1.3.4.BUILD-20200403.130805-48-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

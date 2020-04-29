@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: epmloyee.service
+---
+testFramework: junit
+sourceLanguage: java

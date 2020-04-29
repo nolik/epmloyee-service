@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/quarkus/employee-service/employee-service.iml" filepath="$PROJECT_DIR$/quarkus/employee-service/employee-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mironaut/epmloyee-service/epmloyee-service.iml" filepath="$PROJECT_DIR$/mironaut/epmloyee-service/epmloyee-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helidon/helidon-standalone-quickstart-mp/helidon-standalone-quickstart-mp.iml" filepath="$PROJECT_DIR$/helidon/helidon-standalone-quickstart-mp/helidon-standalone-quickstart-mp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helidon/helidon-standalone-quickstart-se/helidon-standalone-quickstart-se.iml" filepath="$PROJECT_DIR$/helidon/helidon-standalone-quickstart-se/helidon-standalone-quickstart-se.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/native-demo.iml" filepath="$PROJECT_DIR$/.idea/native-demo.iml" />
+    </modules>
+  </component>
+</project>
