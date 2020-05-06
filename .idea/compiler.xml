@@ -33,7 +33,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="employee-service" target="1.11" />
+      <module name="employee-service" target="11" />
       <module name="epmloyee-service" target="13" />
       <module name="examples-quickstarts-project" target="1.5" />
       <module name="helidon-examples-webserver-tutorial" target="1.5" />
